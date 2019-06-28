@@ -54,14 +54,30 @@
 		7226F4C522C657B10060B78F /* I Am Rich */ = {
 			isa = PBXGroup;
 			children = (
+				7226F4D922C657C50060B78F /* Storyboards */,
+				7226F4D822C657BA0060B78F /* View Controllers */,
 				7226F4C622C657B10060B78F /* AppDelegate.swift */,
-				7226F4C822C657B10060B78F /* ViewController.swift */,
-				7226F4CA22C657B10060B78F /* Main.storyboard */,
 				7226F4CD22C657B30060B78F /* Assets.xcassets */,
-				7226F4CF22C657B30060B78F /* LaunchScreen.storyboard */,
 				7226F4D222C657B30060B78F /* Info.plist */,
 			);
 			path = "I Am Rich";
+			sourceTree = "<group>";
+		};
+		7226F4D822C657BA0060B78F /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				7226F4C822C657B10060B78F /* ViewController.swift */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		7226F4D922C657C50060B78F /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				7226F4CA22C657B10060B78F /* Main.storyboard */,
+				7226F4CF22C657B30060B78F /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
