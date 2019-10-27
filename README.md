@@ -15,8 +15,8 @@ I Am Rich is an iOS application originally developed by Armin Heinrich, with its
 
 ### User Stories
 
-- [X] Add UILabel with text 'I Am Rich'
-- [X] Add ImageView of a diamond from the assets
+- [X] Add an UILabel with text 'I Am Rich'
+- [X] Add an ImageView of a diamond from the assets
 
 ## Video Walkthrough
 
