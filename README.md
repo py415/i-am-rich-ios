@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
-3. [Video Walkthrough](#Video-Walkthrough)
+3. [App Preview](#App-Preview)
 4. [Credits](#Credits)
 
 ## Overview
@@ -13,14 +13,10 @@ I Am Rich is an iOS application originally developed by Armin Heinrich, with its
 
 ## Product Spec
 
-### User Stories
+## App Preview
 
-- [X] Add an UILabel with text 'I Am Rich'
-- [X] Add an ImageView of a diamond from the assets
+Here's a image preview of how the app looks:
 
-## Video Walkthrough
-
-Here's a progress video walkthrough of implemented user stories:
 
 ## Credits
 
