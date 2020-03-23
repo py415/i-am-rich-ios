@@ -14,7 +14,7 @@ I Am Rich is an iOS application originally developed by Armin Heinrich, with its
 ## Product Spec
 ### User Stories
 
-- [X] User shall be able to see image of a diamond on the center of the app.
+- [X] User shall be able to see an image of a diamond on the center of the app.
 
 ## App Preview
 
