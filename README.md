@@ -20,8 +20,8 @@ I Am Rich is an iOS application originally developed by Armin Heinrich, with its
 
 Here's a preview of how the app looks:
 
-<img src="https://user-images.githubusercontent.com/35745973/81383129-5ad32c00-90c4-11ea-8b24-81957e440895.png" width=400><br>
+<img src="https://user-images.githubusercontent.com/35745973/81383129-5ad32c00-90c4-11ea-8b24-81957e440895.png" width=400>
 
 ## Credits
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/).
