@@ -9,7 +9,7 @@
 ## Overview
 ### Description
 
-I Am Rich is an iOS application originally developed by Armin Heinrich, with its only purpose being to show other people that they were able to afford it.
+I Am Rich is an iOS application originally developed by [Armin Heinrich](https://en.wikipedia.org/wiki/I_Am_Rich), with its only purpose being to show other people that they were able to afford it.
 
 ## Product Specs
 ### User Stories
@@ -20,7 +20,7 @@ I Am Rich is an iOS application originally developed by Armin Heinrich, with its
 
 Here's a preview of how the app looks:
 
-<img src="https://user-images.githubusercontent.com/35745973/81383129-5ad32c00-90c4-11ea-8b24-81957e440895.png" width=400>
+<img src="https://github.com/py415/app-resources/blob/master/ios/ios-i-am-rich.png" width=250>
 
 ## Credits
 
