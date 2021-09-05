@@ -20,7 +20,7 @@ I Am Rich is an iOS application originally developed by [Armin Heinrich](https:/
 
 Here's a preview of how the app looks:
 
-<img src="https://github.com/py415/app-resources/blob/master/ios/ios-i-am-rich.png" width=250>
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/ios/ios-i-am-rich.png" width="250" />
 
 ## Credits
 
